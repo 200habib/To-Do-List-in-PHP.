@@ -1,5 +1,8 @@
 # To-Do List in PHP
 
+![To-Do List Screenshot](./demo.png)
+
+
 ## 📌 Overview
 This is a simple To-Do List web application built with PHP, MySQL, HTML, and CSS. Users can add tasks, view them in a list, and delete completed tasks. The application stores tasks in a MySQL database and dynamically updates the task list.
 
